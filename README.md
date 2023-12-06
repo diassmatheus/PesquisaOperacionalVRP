@@ -1,4 +1,4 @@
-# <p align="center"> <b> Hill-Climbing e o Problema de Roteirização de Veículos com Frota Heterogênea </b> 
+# <p align="center"> <b> Pesquisa Operacional: Hill-Climbing e o Problema de Roteirização de Veículos com Frota Heterogênea </b> 
 
 ##  💻 Sobre o projeto</br> </br> 
 
